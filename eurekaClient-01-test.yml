@@ -1,1 +1,3 @@
 word: eurekaClient-01TEST
+server:
+  port: 9992
